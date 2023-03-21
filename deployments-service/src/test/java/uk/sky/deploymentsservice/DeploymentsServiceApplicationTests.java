@@ -1,10 +1,10 @@
-package uk.sky.rosskeeleynebulaonedeployments;
+package uk.sky.deploymentsservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RossKeeleyNebulaOneDeploymentsApplicationTests {
+class DeploymentsServiceApplicationTests {
 
     @Test
     void contextLoads() {

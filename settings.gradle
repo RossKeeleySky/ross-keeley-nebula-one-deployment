@@ -1,1 +1,3 @@
 rootProject.name = 'ross-keeley-nebula-one-deployments'
+include 'functional'
+
